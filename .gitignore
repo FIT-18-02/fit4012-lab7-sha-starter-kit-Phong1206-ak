@@ -1,0 +1,20 @@
+# Build outputs
+build/
+cmake-build-*/
+*.o
+*.out
+sha256
+file_integrity
+password_hash
+salted_password_hash
+
+# Generated demo files
+sample.txt
+password.hash
+test_password.hash
+test_password_salted_*.hash
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/

@@ -1,0 +1,4 @@
+Sample evidence file for FIT4012 Lab 7 SHA.
+Run this command to generate your own log:
+
+bash scripts/run_sample.sh | tee logs/my-run.log
